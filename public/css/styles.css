@@ -1,0 +1,58 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tablehr{
+    margin-top: -10px;
+    border-width: 10px;
+    border-color: black;
+    border-radius: 50%;
+}
+
+.tablecolumn{
+    height:500px;
+    border-radius: 10px;
+    border-style: double;
+    height:500px;
+    overflow-y: auto;
+}
+
+.itemdesc{
+    border-radius: 10px;
+    border-style: double;
+}
+
+.imgs{
+    height:100px;
+    width:100px;
+    border-style: double;
+}
+
+.sub_but{
+    border-radius:10px;
+}
+
+.edititem{
+    border-radius:10px;
+}
+
+.display{
+    border-style: none;
+    background: none;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+}
+
+.topview{
+    height:300px;
+}
+
+.tablelink{
+    border-style:outset;
+}
+
+.container-fluid{
+    width:70%;
+    margin:auto;
+}
